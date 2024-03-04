@@ -32,4 +32,4 @@
 
 ## Лицензия
 
-Этот проект лицензирован под MIT License - см. файл LICENSE(LICENSE.md).
+Этот проект лицензирован под MIT License - см. файл [LICENSE.md](LICENSE.md).
